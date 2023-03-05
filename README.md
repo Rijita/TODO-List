@@ -1,5 +1,7 @@
 This is a simple Todo application built using React.
 
+![Todo App](./public/screenshot.png)
+
 ## Features
 Add a new task
 Edit existing tasks
